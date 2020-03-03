@@ -1,6 +1,6 @@
 {
   "name": "node-red-auth-gitlab2",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "A Gitlab authentication plugin for Node-RED",
   "main": "./lib/index.js",
   "scripts": {
