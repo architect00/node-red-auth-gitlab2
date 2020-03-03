@@ -4,7 +4,7 @@
   "description": "A Gitlab authentication plugin for Node-RED",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "authentication",
