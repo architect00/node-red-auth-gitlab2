@@ -1,0 +1,20 @@
+{
+  "name": "node-red-auth-gitlab2",
+  "version": "1.0.0",
+  "description": "A Gitlab authentication plugin for Node-RED",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "authentication",
+    "node-red",
+    "node-red-auth",
+    "auth"
+  ],
+  "author": "David Strassegger",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "passport-gitlab2": "5.0.0"
+  }
+}
